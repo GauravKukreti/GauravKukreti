@@ -1,12 +1,17 @@
-# Hey! 👋
+![Gaurav Kukreti](./name.svg)
 
-My name is Gaurav Kukreti. [![Linkedin: gauravkukreti02](https://img.shields.io/badge/gauravkukreti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gauravkukreti02/)](https://www.linkedin.com/in/gauravkukreti02/)
+# Hey! 👋
+B.Tech CSE 3rd year
+
+[![Linkedin: gauravkukreti02](https://img.shields.io/badge/gauravkukreti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gauravkukreti02/)](https://www.linkedin.com/in/gauravkukreti02/)
 [![GitHub Gaurav](https://img.shields.io/github/followers/GauravKukreti?label=follow&style=social)](https://github.com/GauravKukreti)
 
 ## 🛠  Technologies and tools
 
 <a name="learning-now"></a>
 
+[<img src="https://img.shields.io/badge/-C%2FC%2B%2B-282C34" alt="C/C++ logo" title="C/C++" height="25" />][tech_tools_anchor]
+&nbsp;
 [<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />][tech_tools_anchor]
 &nbsp;
 [<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />][tech_tools_anchor]
@@ -22,8 +27,6 @@ My name is Gaurav Kukreti. [![Linkedin: gauravkukreti02](https://img.shields.io/
 
 ## 📖  What I am currently learning / improving on
 [<img src="https://img.shields.io/badge/-Data%20Structures%20and%20Algorithms-282C34" alt="DSA logo" title="DSA" height="25" />][tech_tools_anchor]
-&nbsp;
-[<img src="https://img.shields.io/badge/-C%2FC%2B%2B-282C34" alt="C/C++ logo" title="C/C++" height="25" />][tech_tools_anchor]
 &nbsp;
 <p style="font-size:20px">challenge: I am doing the #100DaysOfCode challenge focused on Data Structures and Algorithms.</p>
 
