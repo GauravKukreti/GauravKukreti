@@ -1,12 +1,14 @@
 ![Gaurav Kukreti](./name.svg)
 
 # Hey! 👋
+
 B.Tech CSE 3rd year
 
 [![Linkedin: gauravkukreti02](https://img.shields.io/badge/gauravkukreti-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gauravkukreti02/)](https://www.linkedin.com/in/gauravkukreti02/)
 [![GitHub Gaurav](https://img.shields.io/github/followers/GauravKukreti?label=follow&style=social)](https://github.com/GauravKukreti)
+[![Gaurav Portfolio](https://img.shields.io/badge/-Portfolio-%23D33CEA)](https://gauravkukreti.github.io/portfolio-react-app/)
 
-## 🛠  Technologies and tools
+## 🛠 Technologies and tools
 
 <a name="learning-now"></a>
 
@@ -27,12 +29,14 @@ B.Tech CSE 3rd year
 
 <a name="learning-next"></a>
 
-## 📖  What I am currently learning / improving on
+## 📖 What I am currently learning / improving on
+
 [<img src="https://img.shields.io/badge/-Data%20Structures%20and%20Algorithms-282C34" alt="DSA logo" title="DSA" height="25" />][tech_tools_anchor]
 &nbsp;
+
 <p style="font-size:20px">challenge: I am doing the #100DaysOfCode challenge focused on Data Structures and Algorithms.</p>
 
-## 👾  What I am interested in learning at some point
+## 👾 What I am interested in learning at some point
 
 [<img src="https://img.shields.io/badge/React Native-282C34?logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" />][tech_tools_anchor]
 &nbsp;
